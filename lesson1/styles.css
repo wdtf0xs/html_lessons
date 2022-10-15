@@ -1,0 +1,26 @@
+img{
+    width: 300px;
+    height: 400px;
+}
+
+h1{
+    background: brown;
+    color: silver;
+}
+
+h2{
+    background: brown;
+}
+
+p{
+    background: brown;
+    color: azure;
+}
+
+ul{
+    background: brown;
+}
+
+li{
+    color: aquamarine;
+}
