@@ -1,0 +1,75 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.block{
+    width: 600px;
+    height: 900px;
+}
+
+.card1{
+    width: 100%;
+    height: 300px;
+    background: #6821e1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card2{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    box-sizing: border-box;
+    margin-top: 10px;
+    column-gap: 10px;
+}
+
+.card3{
+    width: 100%;
+    height: 300px;
+    background: #137a7a;
+    box-sizing: border-box;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.item1{
+    width: 200px;
+    height: 100%;
+    background: #08a6a6;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.item2{
+    width: 200px;
+    height: 100%;
+    background: #08a6a6;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.item3{
+    width: 200px;
+    height: 100%;
+    background: #08a6a6;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+    font-size: 24px;
+    color: azure;
+    font-family: "Times New Roman", sans-serif;
+}
